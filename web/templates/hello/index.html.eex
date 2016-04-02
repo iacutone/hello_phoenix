@@ -1,0 +1,5 @@
+<div class="jumbotron">
+  <h2>Hello World, from Phoenix!</h2>
+  <h3><%= @message %></h3>
+  <h3><%= @name %></h3>
+</div>
